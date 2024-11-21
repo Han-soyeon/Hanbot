@@ -1,2 +1,2 @@
 # AttendAssign-System
-개인 : 출석 및 과제 관리 시스템
+학과 공지사항 알림 챗봇
